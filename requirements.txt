@@ -1,0 +1,4 @@
+autogluon.timeseries>=1.2
+pandas
+openpyxl
+matplotlib
